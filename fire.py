@@ -180,7 +180,8 @@ class FireProx(object):
                     "method.request.path.proxy"
                   ],
                   "type": "http_proxy"
-                },
+                }
+              },
               "post": {
                 "parameters": [
                   {
@@ -215,7 +216,8 @@ class FireProx(object):
                     "method.request.path.proxy"
                   ],
                   "type": "http_proxy"
-                },
+                }
+              },
               "put": {
                 "parameters": [
                   {
@@ -250,7 +252,8 @@ class FireProx(object):
                     "method.request.path.proxy"
                   ],
                   "type": "http_proxy"
-                },
+                }
+              },
               "delete": {
                 "parameters": [
                   {
@@ -285,7 +288,8 @@ class FireProx(object):
                     "method.request.path.proxy"
                   ],
                   "type": "http_proxy"
-                },
+                }
+              },
               "patch": {
                 "parameters": [
                   {
